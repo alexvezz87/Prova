@@ -1,0 +1,28 @@
+﻿DOMANDE
+- La concentrazione per cliente è determinata dagli storici dei pagamenti che essi effettuano? Cattivi comportamenti, determinano concentrazioni basse?
+	Chiedere a Luca, ma tendenzialmente la concentrazione non dipende da questo.
+- Definizione specifica di CONCENTRAZIONE. Può andare bene: La percentuale di linea di credito che una banca mette a disposizione per singolo cliente.
+	OK
+- Richiesta di spiegazione specifica sulle modalità di pagamento delle fatture. Esempio: RIBA, RID, ecc.
+	La modalità di pagamento influisce sugli algoritmi ed è caratteristica delle FATTURE.
+	
+	
+--------
+- La concentrazione può variare a seconda che un cliente sia più o menu buono?
+	NO. Varia ma non per questo motivo.
+- La concentrazione di un cliente specifico, può variare da banca a banca?
+	Si. Ad ogni cliente può essere associata una concentrazione che varia per banca.
+- La concentrazione che una banca applica può essere modificabile?
+	Si. La concentrazione è un parametro che può essere cambiato nel tempo.
+
+--------
+- La modellazione dei clienti, prevede un importazione di questi da parte di un software interno a GECOD oppure va compilata manualmente?
+	Esiste un database dei clienti che verrà importato come quello delle fatture e fara match con quest'ultimo mediante campi come PIVA o CF.
+
+	
+--------
+- Quando una fattura è stata messa in linea di credito, ma il cliente non la salda, dobbiamo ancora prendere in considerazione quella fattura (per esempio per inserirla in un'altra linea di credito) oppure non sarà più possibile fare azioni su di quella?
+
+- Per quanto riguarda la gerarchia degli utenti di GLiCAF, gli Amministratori di Dominio, possono avere la facoltà di promuovere gli Utenti Base al loro stesso ruolo? O sarebbe meglio demandare questa funzione direttamente all'Amministratore Proprietario?
+
+- Chiedere delucidazioni sulla scadenza delle fatture.
